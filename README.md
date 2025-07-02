@@ -51,16 +51,20 @@
 
 ## Screenshots
 
+
 Below are some example screenshots of the app in action:
 
-### Main Interface (Light Theme)
-![Light Theme Screenshot](screenshots/light_theme.png)
-
-### Main Interface (Dark Theme)
-![Dark Theme Screenshot](screenshots/dark_theme.png)
+### Main Interface
+![Main Interface](screenshots/main-interface.png)
 
 ### Sidebar Hyperparameter Controls
-![Sidebar Screenshot](screenshots/sidebar.png)
+![Sidebar Hyperparameter Controls](screenshots/hyperparameter-controls.png)
+
+### Response Generation Example
+![Response Generation Example](screenshots/response-example.png)
+
+### Educational Section
+![Educational Section](screenshots/educational-section.png)
 
 ---
 
